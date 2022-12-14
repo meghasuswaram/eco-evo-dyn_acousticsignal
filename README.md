@@ -1,4 +1,4 @@
 # eco-evo-dyn_acousticsignal
 
-R codes are in the R code folder.
+Contact msuswaram@ucmerced.edu on how to read and use the Matlab codes
 
